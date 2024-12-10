@@ -1,4 +1,24 @@
 body {
   background-color: aquamarine;
   margin: 50px;
+  text-align: center;
+}
+
+a {
+  padding: 20px 20px 0px 0px;
+  color: brown;
+}
+
+img {
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+span {
+  text-decoration: underline;
+  color: red;
 }
